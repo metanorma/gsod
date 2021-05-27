@@ -1,0 +1,93 @@
+= Metanorma's Google Season of Docs 2021
+
+== Purpose
+
+Metanorma is a participant in the Google Season of Docs (GSoD) 2021.
+
+This repository is used to organize work relating to our GSoD projects.
+
+See our
+https://www.metanorma.org/blog/2021-03-26/metanorma-gsod-2021/[original project proposal]
+for more details.
+
+
+== Participating tech writers
+
+* Ankita Tripathi (@techtrailhead)
+
+* Tina Lüdtke (@kickoke)
+
+For more details, see the
+https://www.metanorma.org/blog/2021-05-17/metanorma-gsod-2021-writers/[kickoff post].
+
+
+== Project schedule
+
+TBD.
+
+
+== Deliverables
+
+. Audit report of the current state of documentation
+
+.. Familiarize and audit existing documentation and software
+.. Develop an understanding of existing community needs
+.. Strengths and weaknesses of current documentation
+
+. Information architecture
+
+.. The desired information architecture should:
+... Allow the audience to discover the information they need;
+... Use a layered approach, where the audience can learn more detailed information step-by-step, allowing the novice to progress in knowledge without being overwhelmed; and
+... Be understandable to laymen. Most Metanorma users are standardization experts and professionals in diverse industries -- they cannot be expected to have a level of computer knowledge comparable to that of developers.
+
+. Metanorma authoring guide for new users
+
+.. Consolidate information across existing documentation, covering these topics:
+... Introduction to Metanorma;
+... A "`quick start`" that allows new users to get up and running quickly, with pointers to existing documents where appropriate;
+... Flavors of Metanorma and their authoring guidance (see next deliverable);
+... Metanorma standards and specifications; and
+... A list of related tools and guidance of their usage
+
+. SDO-specific authoring guides for IETF, OGC, ISO and another organization
+
+.. Covering the topics of:
+... Introduction to the usage of Metanorma in the SDO
+... Describe the publication flow of a standard at the SDO, and where Metanorma applies within that workflow
+... Provide authoring guidance on how to author a standard for that SDO, including pointers to existing reference guides
+... Provide actionable guidance on how to submit the Metanorma-created standard to the SDO for publication
+.. Able to publish them as separate documentation sites for the SDO-specific audience
+
+. GSoD project case study (one per technical writer)
+
+.. Authored by the technical writer and interested project mentors
+.. Describes the success and challenges faced during the GSoD project for future reference
+
+
+
+== Identified issues
+
+. Lack of a general authoring guide, especially geared towards the novice author.
+
+** New Metanorma users have pointed out the lack of an authoring guide that guides the novice on the steps on setting up the environment, on creating a document, and on preparing a document for publication. Visitors to the site have indicated that it is easy to be overwhelmed by the number of repositories and specifications at first glance.
+
+. Lack of flavor-specific authoring guides.
+
+** Standards authors use Metanorma to create SDO-specific standards, for example, IETF or OGC. Each SDO applies different encoding requirements and content rules on their standards and requires different metadata elements to be entered. While Metanorma does provide reference documentation, they are not sufficient to initiate the author of a standard who is new to Metanorma.
+
+. Unintuitive information architecture.
+
+** Existing Metanorma users have suggested that the information requested is often scattered across multiple locations. One may need to go back and forth across several documents to find the desired information.
+
+. Non-development direct enquiries.
+
+** New users often directly contact project contributors via email or create issues at the GitHub repositories for information they could not locate in the documents. Most of these topics are actually covered on the project website, but they can be difficult to locate for new users.
+
+
+
+== References
+
+* https://www.metanorma.org/blog/2021-03-26/metanorma-gsod-2021/[Metanorma GSoD proposal]
+* https://www.metanorma.org/blog/2021-04-18/metanorma-gsod-2021/[Metanorma accepted by Google's Season of Docs 2021]
+* https://www.metanorma.org/blog/2021-05-17/metanorma-gsod-2021-writers/[Kickoff to Metanorma GSoD 2021]
