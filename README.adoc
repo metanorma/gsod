@@ -23,7 +23,34 @@ https://www.metanorma.org/blog/2021-05-17/metanorma-gsod-2021-writers/[kickoff p
 
 == Project schedule
 
-TBD.
+
+[width="80%"]
+|=======
+|Project phase |Tasks |Assigned to |Timeline
+|Analysis |Quantitative content audit |both | finish until June 6th
+| |Target audience analysis |both |finish until June 13th
+| |Qualitative content audit |both |finish until June 13th
+| |Create analysis report |both |finish until June 15th
+|Information architecture |Create content models and discuss reuse strategy |both |finish until June 20th
+| |Create new site structure for docs & navigation |both |finish until 27th June 
+| |Technical and editorial implementation of the new site structure 
+//Create new  pages where needed; Split up existing pages to fit workflow-based site structure
+|TBD |finish until July 25th
+|Community |Set up a community platform |TBD |finish until June 20th
+|New Content|Create an FAQ page |TBD |finish until July 11th
+||Create a troubleshooting reference |TBD |finish until July 20th
+|Authoring Guide for New Users |Create an introductory tutorial |TBD |finish until July 20th
+| |Review |TBD |finish until July 25th
+| |Implement feedback |TBD | finish until August 1st
+|Flavor-specific Authoring guides |Create OGC Authoring guide 
+//Should not take too long if Reuse was implemented and the content rework was successful.
+|TBD |finish until August 7th
+| |Create IETF Authoring guide |TBD | finish until August 7th
+| |Review |TBD |finish until August 10th
+| |Implement feedback |TBD |finish until August 15th
+|If we have time left | Create another SDO flavor Authoring Guide |TBD |finish until August 15th
+|Wrap up |Create final GSoD report |both |until August 22nd
+|=======
 
 
 == Deliverables
