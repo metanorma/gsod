@@ -27,7 +27,7 @@ https://www.metanorma.org/blog/2021-05-17/metanorma-gsod-2021-writers/[kickoff p
 [width="80%"]
 |=======
 |Project phase |Tasks |Assigned to |Timeline
-|Analysis |Quantitative content audit |both | finish until June 6th
+|Analysis |Quantitative content audit |both | finish until June 6th ✅
 | |Target audience analysis |both |finish until June 13th
 | |Qualitative content audit |both |finish until June 13th
 | |Create analysis report |both |finish until June 15th
