@@ -46,7 +46,7 @@ https://www.metanorma.org/blog/2021-05-17/metanorma-gsod-2021-writers/[kickoff p
 //Should not take too long if Reuse was implemented and the content rework was successful.
 |TBD |finish until August 7th
 | |Create IETF Authoring guide |TBD | finish until August 7th
-| |Review |TBD |finish until August 10th
+| |Review (Metanorma + SDOs) |TBD |finish until August 10th
 | |Implement feedback |TBD |finish until August 15th
 |If we have time left | Create another SDO flavor Authoring Guide |TBD |finish until August 15th
 |Wrap up |Create final GSoD report |both |until August 22nd
