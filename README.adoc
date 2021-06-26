@@ -32,7 +32,7 @@ https://www.metanorma.org/blog/2021-05-17/metanorma-gsod-2021-writers/[kickoff p
 | |Qualitative content audit |both |finish until June 13th ✅
 | |Create analysis report |both |finish until June 15th ✅
 |Information architecture |Create content models and discuss reuse strategy |both |finish until June 20th ✅
-| |Create new site structure for docs & navigation |both |finish until 27th June 
+| |Create new site structure for docs & navigation |both |finish until 27th June ✅
 | |Technical and editorial implementation of the new site structure 
 //Create new  pages where needed; Split up existing pages to fit workflow-based site structure
 |TBD |finish until July 25th
