@@ -35,11 +35,11 @@ https://www.metanorma.org/blog/2021-05-17/metanorma-gsod-2021-writers/[kickoff p
 | |Create new site structure for docs & navigation |both |finish until 27th June ✅
 | |Technical and editorial implementation of the new site structure 
 //Create new  pages where needed; Split up existing pages to fit workflow-based site structure
-|Ankita |finish until July 25th
+|Ankita [noc capacity] --> Tina  |finish until August 10th
 |Community |Set up a community platform [Decided not to proceed at the time] |Ankita |finish until June 29th ✅
-|New Content|Create an FAQ page |Ankita |finish until July 11th
+|New Content|Create an FAQ page [No time left]|Ankita |--
 ||Create a troubleshooting reference |both |finish until July 20th
-|Authoring Guide for New Users |Create an introductory tutorial |Tina |finish until August 1st
+|Authoring Guide for New Users |Create an introductory tutorial |Tina |finish until August 1st ✅
 | |Review |Metanorma mentors |finish until August 7th
 | |Implement feedback |Tina | finish until August 15th
 |Flavor-specific Authoring guides |Create OGC Authoring guide 
@@ -49,7 +49,7 @@ https://www.metanorma.org/blog/2021-05-17/metanorma-gsod-2021-writers/[kickoff p
 | |Review (Metanorma + SDOs) |TBD |finish until August 10th
 | |Implement feedback |Ankita |finish until August 15th
 |If we have time left | Create another SDO flavor Authoring Guide |TBD |finish until August 15th
-|Wrap up |Create final GSoD report |both |until August 22nd
+|Wrap up |Create final GSoD report and roadmap for the future of docs |both |until August 15th
 |=======
 
 
