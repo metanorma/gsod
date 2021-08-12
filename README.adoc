@@ -36,16 +36,16 @@ https://www.metanorma.org/blog/2021-05-17/metanorma-gsod-2021-writers/[kickoff p
 | |Technical and editorial implementation of the new site structure 
 //Create new  pages where needed; Split up existing pages to fit workflow-based site structure
 |Ankita [no capacity] --> Tina  |finish until August 10th ✅
-|Community |Set up a community platform [Decided not to proceed at the time] |Ankita |finish until June 29th ✅
-|New Content|Create an FAQ page [No time left]|Ankita |--
+|Community |Set up a community platform [Discussions on GitHub works for now] |Ankita |finish until June 29th ✅
+|New Content|Create an FAQ page [Done initial work]|Ankita |--
 ||Create a troubleshooting reference |Tina |finish until July 20th ✅
 |Authoring Guide for New Users |Create an introductory tutorial |Tina |finish until August 1st ✅
 | |Review |Metanorma mentors |finish until August 7th ✅
 | |Implement feedback |Tina | finish until August 15th ✅
 |Flavor-specific Authoring guides |Create OGC Authoring guide 
 //Should not take too long if Reuse was implemented and the content rework was successful.
-|Ankita |finish until August 7th
-| |Create ISO & IETF Authoring guide |Ankita | finish until August 7th
+|Ankita |finish until August 15th
+| |Create ISO & IETF Authoring guide |Ankita | finish until August 15th
 | |Review (Metanorma + SDOs) |TBD |finish until August 10th
 | |Implement feedback |Ankita |finish until August 15th
 |If we have time left | Create another SDO flavor Authoring Guide |TBD |finish until August 15th
