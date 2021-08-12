@@ -38,7 +38,7 @@ https://www.metanorma.org/blog/2021-05-17/metanorma-gsod-2021-writers/[kickoff p
 |Ankita [no capacity] --> Tina  |finish until August 10th ✅
 |Community |Set up a community platform [Decided not to proceed at the time] |Ankita |finish until June 29th ✅
 |New Content|Create an FAQ page [No time left]|Ankita |--
-||Create a troubleshooting reference |both |finish until July 20th
+||Create a troubleshooting reference |Tina |finish until July 20th ✅
 |Authoring Guide for New Users |Create an introductory tutorial |Tina |finish until August 1st ✅
 | |Review |Metanorma mentors |finish until August 7th ✅
 | |Implement feedback |Tina | finish until August 15th ✅
