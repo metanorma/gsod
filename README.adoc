@@ -49,7 +49,7 @@ https://www.metanorma.org/blog/2021-05-17/metanorma-gsod-2021-writers/[kickoff p
 | |Review (Metanorma + SDOs) |TBD |finish until August 10th
 | |Implement feedback |Ankita |finish until August 15th
 |If we have time left | Create another SDO flavor Authoring Guide |TBD |finish until August 15th
-|Wrap up |Create final GSoD report and roadmap for the future of docs |both |until August 15th
+|Wrap up |Create final GSoD report and roadmap for the future of docs |both |until August 15th ✅
 |=======
 
 
