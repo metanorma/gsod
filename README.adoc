@@ -7,7 +7,7 @@ Metanorma is a participant in the Google Season of Docs (GSoD) 2021.
 This repository is used to organize work relating to our GSoD projects.
 
 See our
-https://www.metanorma.org/blog/2021-03-26/metanorma-gsod-2021/[original project proposal]
+https://www.metanorma.org/blog/2021-03-26-metanorma-gsod-2021/[original project proposal]
 for more details.
 
 
@@ -18,7 +18,7 @@ for more details.
 * Tina Lüdtke (@kickoke)
 
 For more details, see the
-https://www.metanorma.org/blog/2021-05-17/metanorma-gsod-2021-writers/[kickoff post].
+https://www.metanorma.org/blog/2021-05-17-metanorma-gsod-2021-writers/[kickoff post].
 
 
 == Project schedule
@@ -115,6 +115,6 @@ https://www.metanorma.org/blog/2021-05-17/metanorma-gsod-2021-writers/[kickoff p
 
 == References
 
-* https://www.metanorma.org/blog/2021-03-26/metanorma-gsod-2021/[Metanorma GSoD proposal]
-* https://www.metanorma.org/blog/2021-04-18/metanorma-gsod-2021/[Metanorma accepted by Google's Season of Docs 2021]
-* https://www.metanorma.org/blog/2021-05-17/metanorma-gsod-2021-writers/[Kickoff to Metanorma GSoD 2021]
+* https://www.metanorma.org/blog/2021-03-26-metanorma-gsod-2021/[Metanorma GSoD proposal]
+* https://www.metanorma.org/blog/2021-04-18-metanorma-gsod-2021/[Metanorma accepted by Google's Season of Docs 2021]
+* https://www.metanorma.org/blog/2021-05-17-metanorma-gsod-2021-writers/[Kickoff to Metanorma GSoD 2021]
