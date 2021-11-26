@@ -1,0 +1,164 @@
+= Google Season of Docs (GSoD) 2021 Case Study 
+
+== Metanorma authoring guide for new users
+
+Organization or Project: https://www.metanorma.org[Metanorma]
+
+Organization Description: An open-source framework for writing & publishing standardization documents with the focus on semantic authoring and flexible output support.
+
+Authors: Tina Lüdtke (@kickoke) and Ankita Tripathi (@techtrailhead)
+
+GitHub page: https://github.com/metanorma/gsod[Metanorma GSoD]
+
+Slides: https://docs.google.com/presentation/d/1vLfafPX3gAakUwV8P5VMpqsGxupZ3WBkFGZY1J4V-fI/edit#slide=id.p1[Metanorma Case Report]
+
+== Project proposal
+
+Link to the proposal: https://www.metanorma.org/blog/2021-03-26-metanorma-gsod-2021/[Metanorma GSoD proposal]
+
+=== Brief Summary of Problem Statement
+
+Three major problems are identified:
+
+* New users have difficulties getting started because they can’t find a suitable authoring guide.
+* Existing users need to look for information across the whole website because there is no unified page for their needs.
+* Lack of flavor-specific in-depth documentation.
+
+=== Brief Summary of Proposal Abstract
+
+Four goals of the GSoD project are planned:
+
+* Assess current documentation
+* Create a tutorial for new users
+* Overhaul information architecture from feature-based to task-based
+* Refine SDO-specific authoring guides
+
+== Project Description
+
+=== Creating the proposal
+
+The Metanorma team learned about the GSoD program from its official https://developers.google.com/season-of-docs[webpage]. The team was very excited as we all believed the project could help improve Metanorma's documentation. Most of the team members volunteered to participate in the project. Three team members @ronaldtse, @opoudjis, @strogonoff became the (technical) mentors while @wkwong-ribose drafted the proposal. We also communicated with Metanorma expert users and invited them to participate in the project. The feedback was very positive. Scott Simmons, Chief Operating Officer of the Open Geospatial Consortium, and Marc Petit-Huguenin, Distinguished Engineer and ex-CTO at 8x8 became the (subject-matter) mentors.
+
+=== Budget
+
+We came up with the initial budget based on our estimations.
+
+When we knew the good news that our proposal was selected for GSoD 2021, we were all very excited. The team members promoted our GSoD project on the Internet and in universities. We ended up with a large number of applications from candidates around the world. After several discussions within the team, we decided to not just recruit one, but two technical writers for the project. The additional funding needed for the second writer was matched by the Metanorma project itself.
+
+=== Participants
+
+The core team working on this project was:
+
+* @kickoke and @techtrailhead (technical writer)
+* @ronaldtse, @opoudjis, @strogonoff (Technical mentors)
+* Scott Simmons and Marc Petit-Huguenin (Subject-matter mentors)
+
+Numerous Metanorma team members and Metanorma experts contributed to the GSoD team meetings and interviews:
+
+* @CAMOBAP
+* @Intelligent2013
+* @andrew2net
+* @ribose-jeffreylau
+* @manuel489
+* @anermina
+* @wkwong-ribose
+
+=== Timeline
+
+The planned project duration is 3 months. The progress is tracked on https://github.com/metanorma/gsod[Metanorma GitHub page].
+
+[cols="1,1,1"]
+|===
+|Project phase|Tasks|Schedule
+
+.4+|Analysis
+|Quantitative content audit
+|June 6th
+
+|Target audience analysis
+|June 13th
+
+
+|Qualitative content audit
+|June 13th
+
+|Create analysis report
+|June 15th
+
+.3+|Information architecture
+|Create content models and discuss reuse strategy
+|June 20th
+
+|Create new site structure for docs & navigation
+|27th June
+
+|Technical and editorial implementation of the new site structure
+|August 10th
+
+|Community
+|Set up a community platform
+|June 29th
+
+.2+|New Content
+|Create an FAQ page
+|Done initial work
+
+|Create a troubleshooting reference
+|July 20th
+
+.3+|Authoring Guide for New Users
+|Create an introductory tutorial
+|August 1st
+
+|Review
+|August 7th
+
+|Implement feedback
+|August 15th
+
+.4+|Flavor-specific Authoring guides
+|Create OGC Authoring guide
+|August 15th
+
+|Create ISO & IETF Authoring guide
+|August 15th
+
+|Review (Metanorma + SDOs)
+|August 10th
+
+|Implement feedback
+|August 15th
+
+|Wrap up
+|Create final GSoD report and roadmap for the future of docs
+|August 15th
+
+|===
+
+=== Results
+
+Details about the results can be found https://docs.google.com/presentation/d/1vLfafPX3gAakUwV8P5VMpqsGxupZ3WBkFGZY1J4V-fI/edit#slide=id.p1[here].
+
+The team carried out both quantitative audit and qualitative audit. 94 sources were analyzed (including website entries and slide decks). 
+Problems were identified and summarized in the https://github.com/metanorma/gsod/tree/master/artifacts/Analysis[analysis reports]. An information architecture was developed to tackle the problems.
+A tutorial for new users was created and some existing documentation was restructured.
+
+=== Metrics and Analysis
+
+The two proposed success criteria are:
+
+. Unique visits to the new guide (and its pages) constitute at least 20% of the total visits of the project website.
+. Decrease in the number of non-development direct enquiries by 20% across our GitHub repositories and project email.
+
+We used the statistics between 13 Nov 2021 to 26 Nov 2021 for evaluating criteria 1. 
+The percentage of the number of visits on the new pages over the total number of visits is 18.4%.
+// 27 / 147 views
+While the number is below the set goal, it does not include the visits on the restructured pages as it is hard to quantify the contributions in this case. We consider criteria 1 met for the project.
+
+We decided not to consider criteria 2 at the moment as many issues created on GitHub repositories during the period are related to GSoD. As an alternative, feedback from team members was collected. 100% of the team members agreed that the GSoD project can help decrease the number of enquiries.
+
+We consider our GSoD project a success.
+
+== Summary
+
+We are glad that the Metanorma project joined GSoD 2021 and we met two excellent technical writers @kickoke and @techtrailhead. While the GSoD 2021 project comes to an end, the journey of documentation for Metanorma will continue. We not only addressed numerous important documentation issues in Metanorma GSoD, but also discovered even more room for further improvements. We are now working with our technical writer to keep improving the documentation of Metanorma!
