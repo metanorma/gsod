@@ -30,14 +30,14 @@ Four goals of the GSoD project are planned:
 
 * Assess current documentation
 * Create a tutorial for new users
-* Overhaul information architecture from feature-based to task-based
+* Overhaul information architecture from feature-based to workflow-based
 * Refine SDO-specific authoring guides
 
 == Project Description
 
 === Creating the proposal
 
-The Metanorma team learned about the GSoD program from its official https://developers.google.com/season-of-docs[webpage]. The team was very excited as we all believed the project could help improve Metanorma's documentation. Most of the team members volunteered to participate in the project. Three team members @ronaldtse, @opoudjis, @strogonoff became the (technical) mentors while @wkwong-ribose drafted the proposal. We also communicated with Metanorma expert users and invited them to participate in the project. The feedback was very positive. Scott Simmons, Chief Operating Officer of the Open Geospatial Consortium, and Marc Petit-Huguenin, Distinguished Engineer and ex-CTO at 8x8 became the (subject-matter) mentors.
+The Metanorma team learned about the GSoD program from its official https://developers.google.com/season-of-docs[webpage]. The team was very excited, as we all believed the project could help improve Metanorma's documentation. Most of the team members volunteered to participate in the project. Three team members @ronaldtse, @opoudjis, @strogonoff became the (technical) mentors while @wkwong-ribose drafted the proposal. We also communicated with Metanorma expert users and invited them to participate in the project. The feedback was very positive. Scott Simmons, Chief Operating Officer of the Open Geospatial Consortium, and Marc Petit-Huguenin, Distinguished Engineer and ex-CTO at 8x8 became the (subject-matter) mentors.
 
 === Budget
 
@@ -65,7 +65,7 @@ Numerous Metanorma team members and Metanorma experts contributed to the GSoD te
 
 === Timeline
 
-The planned project duration is 3 months. The progress is tracked on https://github.com/metanorma/gsod[Metanorma GitHub page].
+The planned project duration was 3 months. The progress was tracked on https://github.com/metanorma/gsod[Metanorma GitHub page].
 
 [cols="1,1,1"]
 |===
@@ -137,11 +137,18 @@ The planned project duration is 3 months. The progress is tracked on https://git
 
 === Results
 
-Details about the results can be found https://docs.google.com/presentation/d/1vLfafPX3gAakUwV8P5VMpqsGxupZ3WBkFGZY1J4V-fI/edit#slide=id.p1[here].
+Details about the results can be found in the https://docs.google.com/presentation/d/1vLfafPX3gAakUwV8P5VMpqsGxupZ3WBkFGZY1J4V-fI/edit#slide=id.p1[case report slides].
 
 The team carried out both quantitative audit and qualitative audit. 94 sources were analyzed (including website entries and slide decks). 
-Problems were identified and summarized in the https://github.com/metanorma/gsod/tree/master/artifacts/Analysis[analysis reports]. An information architecture was developed to tackle the problems.
-A tutorial for new users was created and some existing documentation was restructured.
+The https://github.com/metanorma/gsod/tree/master/artifacts/Analysis[analysis reports] summarize identified problems.
+To overcome the issues, the technical writers created: 
+
+* A new information architecture and restructured the documentation accordingly
+* Content models to standardize future documentation
+* Tutorial content for novice users, including exercises
+* Flavor-specific guides for ISO, OGC, and IETF
+* Cheat sheets for quick lookup
+
 
 === Metrics and Analysis
 
@@ -161,4 +168,4 @@ We consider our GSoD project a success.
 
 == Summary
 
-We are glad that the Metanorma project joined GSoD 2021 and we met two excellent technical writers @kickoke and @techtrailhead. While the GSoD 2021 project comes to an end, the journey of documentation for Metanorma will continue. We not only addressed numerous important documentation issues in Metanorma GSoD, but also discovered even more room for further improvements. We are now working with our technical writer to keep improving the documentation of Metanorma!
+We are glad that the Metanorma project joined GSoD 2021 and we met two excellent technical writers @kickoke and @techtrailhead. While the GSoD 2021 project comes to an end, the journey of documentation for Metanorma will continue. Not only did we address numerous important documentation issues in Metanorma GSoD, but also discovered even more room for further improvements. We are now working with our technical writer to keep improving the documentation of Metanorma!
